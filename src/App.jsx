@@ -11,27 +11,19 @@ import SectionSix from './components/sectionSix/SecetionSix';
 function App() {
 
   return (
-    <>
+    
       <div>
         <Header />
-
         <AlertSection />
-
         <SecetionOne />
-
         <SectionTwo />
-
         <SectionThree />
-
         <SectionFour />
-
         <SectionFive />
-
         <SectionSix />
-
         <Footer />
       </div>
-    </>
+    
   );
 }
 
